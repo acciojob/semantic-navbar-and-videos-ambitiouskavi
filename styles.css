@@ -13,7 +13,7 @@ ul{
   margin-right:50px;
 }
 .navbar{
-  position:fixed;
+  position:sticky;
   background-color: #7f7f7f;
   height:5vh;
   width:100vw;
